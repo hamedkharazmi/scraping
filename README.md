@@ -46,7 +46,7 @@ python -m playwright install
 ```bash
 python auth.py
 ```
-> Run this file and login manually once. It will generate `auth.json` with your login cookies.
+> Run this file and login manually once. It will generate `auth.json` with your login cookies. (It's better to use Login with Email method)
 
 ### 4. Run the Scraper
 
